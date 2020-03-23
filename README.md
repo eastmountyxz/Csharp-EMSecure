@@ -4,6 +4,13 @@ This project is mainly about how to clean all kinds of traces of personal comput
 
 You can visit [http://blog.csdn.net/eastmount/article/details/45030593](http://blog.csdn.net/eastmount/article/details/45030593)
 
+显示效果如下图所示：
+
+
+主要功能包括：
+
+
+
 ---
 
 
