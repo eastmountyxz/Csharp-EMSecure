@@ -10,8 +10,10 @@ You can visit [http://blog.csdn.net/eastmount/article/details/45030593](http://b
 主要功能包括：
 
 
+同时，该资源为作者本科毕业设计，也是人生路上的一段成长，共勉~
 
 ---
 
 
 By：Eastmount CSDN 2015-5-29 
+
